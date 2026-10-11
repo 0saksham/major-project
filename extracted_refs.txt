@@ -1,0 +1,55 @@
+[1]N. Shazeer et al., "Outrageously large neural networks: The sparsely-gated mixture-of-experts layer," in Proc. Int. Conf. Learn. Represent. (ICLR), 2017, arXiv:1701.06538.
+
+[2]W. Fedus, B. Zoph, and N. Shazeer, "Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity," J. Mach. Learn. Res., vol. 23, no. 120, pp. 1–39, 2022.
+
+[3]A. Q. Jiang et al., "Mixtral of experts," arXiv:2401.04088, Jan. 2024.
+
+[4]I. Ong et al., "RouteLLM: Learning to route LLMs with preference data," arXiv:2406.18665, Jun. 2024.
+
+[5]L. Chen, M. Zaharia, and J. Zou, "FrugalGPT: How to use large language models while reducing cost and improving performance," Trans. Mach. Learn. Res., 2024.
+
+[6]D. Jiang, X. Ren, and B. Y. Lin, "LLM-Blender: Ensembling large language models with pairwise ranking and generative fusion," in Proc. 61st Annu. Meeting Assoc. Comput. Linguistics (ACL), 2023, doi: 10.18653/v1/2023.acl-long.792.
+
+[7]J. Wang, J. Wang, B. Athiwaratkun, C. Zhang, and J. Zou, "Mixture-of-agents enhances large language model capabilities," in Proc. Int. Conf. Learn. Represent. (ICLR), 2025, arXiv:2406.04692.
+
+[8]Q. J. Hu et al., "RouterBench: A benchmark for multi-LLM routing system," arXiv:2403.12031, Mar. 2024.
+
+[9]Z. Nezami et al., "Generative AI on the edge: Architecture and performance evaluation," in Proc. IEEE Int. Conf. Commun. (ICC), 2025, arXiv:2411.17712.
+
+[10]T. Nguyen et al., "An evaluation of LLMs inference on popular single-board computers," arXiv:2511.07425, Nov. 2025.
+
+[11]M. Zhang et al., "EdgeShard: Efficient LLM inference via collaborative edge computing," arXiv:2405.14371, May 2024.
+
+[12]A. Borzunov et al., "Petals: Collaborative inference and fine-tuning of large models," in Proc. 61st Annu. Meeting Assoc. Comput. Linguistics (ACL), Syst. Demonstrations, 2023, arXiv:2209.01188.
+
+[13]b4rtaz, "Distributed Llama," GitHub repository. [Online]. Available: https://github.com/b4rtaz/distributed-llama (accessed Oct. 2, 2026).
+
+[14]E. Frantar, S. Ashkboos, T. Hoefler, and D. Alistarh, "GPTQ: Accurate post-training quantization for generative pre-trained transformers," in Proc. Int. Conf. Learn. Represent. (ICLR), 2023, arXiv:2210.17323.
+
+[15]W. Kwon et al., "Efficient memory management for large language model serving with PagedAttention," in Proc. 29th ACM Symp. Oper. Syst. Princ. (SOSP), 2023.
+
+[16]S. J. Cox, J. T. Cox, R. P. Boardman, S. J. Johnston, M. Scott, and N. S. O'Brien, "Iridis-pi: A low-cost, compact demonstration cluster," Cluster Comput., vol. 17, no. 2, pp. 349–358, 2014.
+
+[17]S. J. Johnston et al., "Commodity single board computer clusters and their applications," Future Gener. Comput. Syst., vol. 89, pp. 201–212, 2018.
+
+[18]L. Dalcin, R. Paz, and M. Storti, "MPI for Python," J. Parallel Distrib. Comput., vol. 65, no. 9, pp. 1108–1115, 2005.
+
+[19]M. Mitchell et al., "Model cards for model reporting," in Proc. ACM Conf. Fairness, Accountability, Transparency (FAT\)*, 2019, pp. 220–229.
+
+[20]G. Mollett, F. Cano Gabarda, R. Zhukov, H. Sidhpurwala, and E. Fox, "Blueprints of trust: AI system cards for end-to-end transparency and governance," arXiv:2509.20394, Sep. 2025.
+
+[21]E. Androulaki et al., "Hyperledger Fabric: A distributed operating system for permissioned blockchains," in Proc. 13th EuroSys Conf. (EuroSys '18), 2018, Art. no. 30.
+
+[22]X. Xu, Z. Zeng, S. Yang, and H. Shao, "A novel blockchain framework for industrial IoT edge computing," Sensors, vol. 20, no. 7, p. 2061, 2020.
+
+[23]K. D. Conway, C. So, X. Yu, and K. Wong, "opML: Optimistic machine learning on blockchain," arXiv:2401.17555, Jan. 2024.
+
+[24]D. Kang, T. Hashimoto, I. Stoica, and Y. Sun, "Scaling up trustless DNN inference with zero-knowledge proofs," arXiv:2210.08674, 2022.
+
+[25]H. Sun, J. Li, and H. Zhang, "zkLLM: Zero knowledge proofs for large language models," in Proc. ACM SIGSAC Conf. Comput. Commun. Secur. (CCS), Salt Lake City, UT, USA, Oct. 2024, arXiv:2404.16109.
+
+[26]S. A. Crosby and D. S. Wallach, "Efficient data structures for tamper-evident logging," in Proc. 18th USENIX Security Symp., 2009, pp. 317–334.
+
+[27]B. Schneier and J. Kelsey, "Secure audit logs to support computer forensics," ACM Trans. Inf. Syst. Secur., vol. 2, no. 2, pp. 159–176, 1999.
+
+[28]M. Castro and B. Liskov, "Practical Byzantine fault tolerance," in Proc. 3rd Symp. Oper. Syst. Des. Implement. (OSDI), 1999, pp. 173–186.
